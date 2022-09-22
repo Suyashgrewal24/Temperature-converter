@@ -14,7 +14,7 @@ function tempConv(e) {
 
     let print = document.getElementById("heading");
 
-    print.innerHTML = `${celsius}&#8451; degree celsius is equal to ${fahrenheit}  &#8457;.`
+    print.innerHTML = `${celsius}&#8451; is equal to ${fahrenheit}  &#8457;.`
 
 
 
